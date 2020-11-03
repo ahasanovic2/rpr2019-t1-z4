@@ -36,4 +36,7 @@ public class Korpa {
     public Artikl[] getArtikli() {
         return korpa;
     }
+    public int getBrojArtikala() {
+        return brojac;
+    }
 }
